@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Laís</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently studying **Software development**
+- 🔭 I’m currently studying **Software development and analysis**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning to be a **Full Stack developer**
 
-- 👨‍💻 All of my projects are available at [www.github.com/NagaoX](www.github.com/NagaoX)
+- 👨‍💻 All of my projects are available at [www.github.com/NagaoX](https://github.com/stars/NagaoX/lists/projects)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and Bitcoin**
 
