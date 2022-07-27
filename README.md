@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/NagaoX](www.github.com/NagaoX)
 
-- 💬 Ask me about **HTML, CSS, JavScript and Bitcoin**
+- 💬 Ask me about **HTML, CSS, JavaScript and Bitcoin**
 
 - 📫 How to reach me **laisnagao@hotmail.com**
 
