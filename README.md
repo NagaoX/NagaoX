@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning to be a **Full Stack developer**
 
-- 👨‍💻 All of my projects are available at [www.github.com/NagaoX](https://github.com/stars/NagaoX/lists/projects)
+- 💻 All of my projects are available at [www.github.com/NagaoX](https://github.com/stars/NagaoX/lists/projects)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and Bitcoin**
 
